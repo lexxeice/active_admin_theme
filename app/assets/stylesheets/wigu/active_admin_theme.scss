@@ -5,6 +5,7 @@ $skinMainSecondColor: #5ea3d3!default;
 $skinBorderRadius: 4px!default;
 $skinBorderWindowColor: #e6e9ee!default;
 $skinTablePadding: 10px!default;
+$skinBackGroundColor: #ffffff!default;
 //HTML----------------------------------------------------------------------------------------------------------------//
 
 html {
@@ -451,7 +452,7 @@ form fieldset.inputs {
   box-shadow: none;
   text-shadow: none;
   box-shadow: none;
-  background-color: #ffffff;
+  background-color: $skinBackGroundColor;
   border: 1px solid #e6e9ee;
   border-bottom: 2px solid #e6e9ee;
   legend {
