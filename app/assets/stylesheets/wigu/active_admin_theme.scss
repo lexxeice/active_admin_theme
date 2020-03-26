@@ -480,8 +480,8 @@ form fieldset.inputs {
       color: #8494a8;
     }
     input, textarea {
-      border: 1px solid $skinBackGroundColor;
-      background-color: $skinBackGroundColor;
+      border: 1px solid #e6e9ee;
+      background-color: #fdfefe;
     }
     input:focus, textarea:focus {
       border-color: lighten( $skinMainSecondColor, 20% ) ;
