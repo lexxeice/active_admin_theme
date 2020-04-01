@@ -542,7 +542,7 @@ form fieldset.inputs {
   box-shadow: none;
   text-shadow: none;
   box-shadow: none;
-  background-color: #ffffff;
+  background-color: $skinBackGroundColor;
   border: 1px solid $skinBorderWindowColor;
   border-bottom: 2px solid $skinBorderWindowColor;
   > h3 {
